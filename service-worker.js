@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.12b3be3fb7584b005f25bf3de630dd19.js"
+  "/precache-manifest.efd0da39cc46a2d5307d0a403b0177db.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "speech-schema"});
